@@ -1,4 +1,5 @@
 # Parch & Posey - Power BI Dashboard
+
 Este repositório apresenta um projeto de Business Intelligence desenvolvido com base no dataset fictício **Parch & Posey**, amplamente utilizado para fins educacionais e de análise de dados.
 ## Sobre a empresa
 Parch & Posey é uma fabricante fictícia de papel personalizado (como papel timbrado, cartões e envelopes), que vende principalmente para empresas. O dataset simula informações reais de vendas, clientes, produtos e eventos online.
