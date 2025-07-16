@@ -54,7 +54,8 @@ facilitando o acesso imediato às análises detalhadas.
 
 **2. Visao Geral do Produto**
 
-<img width="895" height="510" alt="Pagina 2" src="https://github.com/user-attachments/assets/71a72826-1500-4721-a011-b9bf68f706a8" />
+<img width="866" height="491" alt="Pagina 1" src="https://github.com/user-attachments/assets/6046e634-7f82-45b4-b355-14585a237b3b" />
+
 
 
 A Visão do Produto apresenta uma análise aprofundada do desempenho comercial de cada tipo de papel vendido pela Parch & Posey. 
