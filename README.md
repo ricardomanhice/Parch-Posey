@@ -182,3 +182,9 @@ Monitorar o desempenho dos representantes de vendas;
 
 Identificar oportunidades de reforço comercial, relacionamento e marketing direcionado.
 
+
+## Como visaulizar o Projecto?
+- Tenha o Microsoft Power BI instalado em sua máquina;
+- Baixe o arquivo neste repositório (.pbix) na pasta Dashboard/Parch_and_Posey.pbix
+- Abra o arquivo baixado no passo anterior, navegando até ao caminho onde o mesmo ficou alojado.
+
