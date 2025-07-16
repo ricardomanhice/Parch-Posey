@@ -188,3 +188,11 @@ Identificar oportunidades de reforço comercial, relacionamento e marketing dire
 - Baixe o arquivo neste repositório (.pbix) na pasta Dashboard/Parch_and_Posey.pbix
 - Abra o arquivo baixado no passo anterior, navegando até ao caminho onde o mesmo ficou alojado.
 
+
+### 👨🏽‍💻 Autor
+Desenvolvido por Ricardo Orlando Manhice
+
+### 🔗 Links Importantes
+- [Repositório](https://github.com/ricardomanhice)
+- [LinkedIn](https://www.linkedin.com/in/ricardomanhice/)
+  
