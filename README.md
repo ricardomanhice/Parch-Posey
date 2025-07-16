@@ -10,15 +10,15 @@ O objetivo deste projeto foi criar um dashboard interativo no Power BI que ofere
 ## 🧩Fontes de dados
 O dataset está dividido nas seguintes tabelas principais:
 
-Orders – Detalhes de cada pedido de venda (data, produto, receita, quantidade, etc.)
+- Orders – Detalhes de cada pedido de venda (data, produto, receita, quantidade, etc.)
 
-Accounts – Informações sobre os clientes (nome, indústria, região, site, etc.)
+- Accounts – Informações sobre os clientes (nome, indústria, região, site, etc.)
 
-Sales_Reps – Detalhes dos representantes de vendas responsáveis por contas e pedidos
+- Sales_Reps – Detalhes dos representantes de vendas responsáveis por contas e pedidos
 
-Region – Detalhes sobre as regiões de atuação da empresa
+- Region – Detalhes sobre as regiões de atuação da empresa
 
-Web_Events – Atividades online dos clientes no site da empresa
+- Web_Events – Atividades online dos clientes no site da empresa
 
 ## 🛠️Ferramentas Utilizadas
 **Power BI** - Visualização e modelagem de dados
@@ -27,11 +27,14 @@ Web_Events – Atividades online dos clientes no site da empresa
 
 **DAX** - Cálculo de métricas e KPIs
 
-**GitHub** - Documentacao
+**GitHub** - Documentação
 
 ## 🎯Paginas do Dashboard
 
 **1. Página Inicial (Capa)**
+
+<img width="908" height="510" alt="Hom_Print" src="https://github.com/user-attachments/assets/9d44976c-cc5d-42ba-bb34-a7f9e07b6acf" />
+
 
 Apresenta um resumo executivo com os principais KPIs:
 
@@ -45,12 +48,17 @@ Interface amigável com menus em forma de botões, permitindo uma navegação fl
 
 🔘 Visão do Cliente
 
-Inclui também um botão "Relatório", posicionado abaixo dos KPIs, que redireciona diretamente para a Página 1 (Visão do Produto), facilitando o acesso imediato às análises detalhadas.
+Inclui também um botão "Relatório", posicionado abaixo dos KPIs, que redireciona diretamente para a Página 1 (Visão do Produto), 
+facilitando o acesso imediato às análises detalhadas.
 
 
 **2. Visao Geral do Produto**
 
-A Visão do Produto apresenta uma análise aprofundada do desempenho comercial de cada tipo de papel vendido pela Parch & Posey. Essa página foi construída para responder a perguntas como:
+<img width="895" height="510" alt="Pagina 2" src="https://github.com/user-attachments/assets/71a72826-1500-4721-a011-b9bf68f706a8" />
+
+
+A Visão do Produto apresenta uma análise aprofundada do desempenho comercial de cada tipo de papel vendido pela Parch & Posey. 
+Essa página foi construída para responder a perguntas como:
 
 ➡️ Quais produtos geram mais receita?
 
@@ -60,11 +68,11 @@ A Visão do Produto apresenta uma análise aprofundada do desempenho comercial d
 
 🔹 KPIs Apresentados
 
-> Total de Pedidos: quantidade total de vendas realizadas
+- Total de Pedidos: quantidade total de vendas realizadas
 
-> Receita Total: valor bruto obtido com as vendas
+- Receita Total: valor bruto obtido com as vendas
 
-> Receita Média por Pedido: métrica calculada como Receita Total / Total de Pedidos
+- Receita Média por Pedido: métrica calculada como Receita Total / Total de Pedidos
 
 ### 📊 Visualizações e Métricas Detalhadas
 
@@ -104,25 +112,29 @@ Permite observar flutuações mensais.
 
 
 ### 🎯 Objetivo da Página
-Ajudar gestores e analistas a:
 
-Compreender o desempenho de produtos em diferentes períodos e regiões
+Compreender o desempenho de produtos em diferentes períodos e regiões;
 
-Identificar oportunidades de aumento de receita
+Identificar oportunidades de aumento de receita;
 
-Reavaliar estratégias de vendas por tipo de produto
+Reavaliar estratégias de vendas por tipo de produto;
 
-Avaliar consistência nas vendas e valor agregado por tipo de papel
+Avaliar consistência nas vendas e valor agregado por tipo de papel.
 
 
 
 **3. Visão do Cliente**
 
-A Visão do Cliente oferece uma análise centrada no comportamento dos clientes, sua distribuição geográfica, sua contribuição para o faturamento e a atuação dos representantes de vendas. Esta página permite identificar os clientes mais valiosos, entender a penetração da empresa por região e avaliar o desempenho dos canais de venda.
+<img width="865" height="497" alt="Pagina 2" src="https://github.com/user-attachments/assets/f38d3004-d070-4a04-8c17-6ada67317104" />
+
+A Visão do Cliente oferece uma análise centrada no comportamento dos clientes, sua distribuição geográfica,
+sua contribuição para o faturamento e a atuação dos representantes de vendas. Esta página permite identificar 
+os clientes mais valiosos, entender a penetração da empresa por região e avaliar o desempenho dos canais de venda.
 
 ### 📊Visualizações e Métricas Apresentadas
 
 ***Total de Clientes por Região***
+
 Mostra a distribuição geográfica da base de clientes.
 
 Permite identificar regiões com maior concentração de contas ativas.
@@ -131,12 +143,14 @@ Permite identificar regiões com maior concentração de contas ativas.
 
 
 ***Receita Total por Cliente***
+
 Identifica os principais clientes em termos de faturamento.
 
 Pode ser usada para análises de dependência comercial e oportunidades de fidelização.
 
 
 ***Total de Eventos Web por Canal de Venda***
+
 Quantifica as interações dos clientes com os canais digitais da empresa (ex: Google, Facebook, Email, etc.).
 
 Permite entender quais canais geram maior engajamento online.
@@ -145,25 +159,26 @@ Suporta decisões em marketing e vendas digitais.
 
 
 ***Ranking de Representantes de Vendas (Sales Reps)***
+
 Matriz com as seguintes colunas:
 
-Nome do representante de vendas (sales_reps)
+- Nome do representante de vendas (sales_reps)
 
-Receita total gerada
+- Receita total gerada
 
-Percentual da receita total que cada um representa
+- Percentual da receita total que cada um representa
 
-Apresentada em ordem decrescente de receita (ranking)
+- Apresentada em ordem decrescente de receita (ranking)
 
 Útil para avaliação de desempenho individual e definição de metas comerciais
 
 
 ### 🎯 Objetivo da Página
-Mapear a contribuição dos clientes e regiões para o resultado da empresa
+Mapear a contribuição dos clientes e regiões para o resultado da empresa;
 
-Avaliar o engajamento nos canais digitais
+Avaliar o engajamento nos canais digitais;
 
-Monitorar o desempenho dos representantes de vendas
+Monitorar o desempenho dos representantes de vendas;
 
-Identificar oportunidades de reforço comercial, relacionamento e marketing direcionado
+Identificar oportunidades de reforço comercial, relacionamento e marketing direcionado.
 
