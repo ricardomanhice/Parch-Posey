@@ -52,7 +52,7 @@ Inclui também um botão "Relatório", posicionado abaixo dos KPIs, que redireci
 facilitando o acesso imediato às análises detalhadas.
 
 
-**2. Visao Geral do Produto**
+**2. Visão Geral do Produto**
 
 <img width="866" height="491" alt="Pagina 1" src="https://github.com/user-attachments/assets/6046e634-7f82-45b4-b355-14585a237b3b" />
 
@@ -184,7 +184,7 @@ Monitorar o desempenho dos representantes de vendas;
 Identificar oportunidades de reforço comercial, relacionamento e marketing direcionado.
 
 
-## Como visaulizar o Projecto?
+## Como visualizar o Projecto?
 - Tenha o Microsoft Power BI instalado em sua máquina;
 - Baixe o arquivo neste repositório (.pbix) na pasta Dashboard/Parch_and_Posey.pbix
 - Abra o arquivo baixado no passo anterior, navegando até ao caminho onde o mesmo ficou alojado.
