@@ -196,5 +196,5 @@ Desenvolvido por Ricardo Orlando Manhice
 ### 🔗 Links Importantes
 - [Repositório](https://github.com/ricardomanhice)
 - [LinkedIn](https://www.linkedin.com/in/ricardomanhice/)
-- [Veja o artigo completo no Linkedin](https://www.linkedin.com/pulse/parch-posey-power-bi-dashboard-ricardo-manhice-z2t9f)
+- [Veja o artigo completo no LinkedIn](https://www.linkedin.com/pulse/parch-posey-power-bi-dashboard-ricardo-manhice-z2t9f)
   
